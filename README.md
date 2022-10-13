@@ -1,5 +1,5 @@
 # Java_NumberProcessor
-Java Package that will be able to convert the world one day
+Java Program to convert numbers between different bases
 #### Content Updates
 As of 2/27/22 It can be ran once and switch between the following converters:
 Binary to Hexadecimal
