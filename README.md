@@ -6,4 +6,4 @@ Binary to Hexadecimal
 Binary to Decimal
 Decimal to Binary
 #### Patch Notes
-As of 2/27/22 there is no significant GUI and there are no known bugs
+As of 2/27/22 there is no GUI and there are no known bugs
