@@ -1,7 +1,7 @@
 # Java_NumberProcessor
 Java Program to convert numbers between different bases
 #### Content Updates
-2/27/22 
+2/27/22
 It can be ran once and switch between the following converters:
 Binary to Hexadecimal
 Binary to Decimal
